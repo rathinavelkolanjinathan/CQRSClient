@@ -1,4 +1,4 @@
-package com.spring.cors.api;
+package com.cors.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
